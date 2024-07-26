@@ -27,4 +27,5 @@ Then go to Extensions -> Installed tab, Press "Apply and restart UI".
 ## Tips
 
 - Place your Embeddings into **sub-folders** by category (like "tools", "characters", or some such).
-- This version only applies embeddings to the **positive prompt**. For negative, use the negative embeddings queue helper version.
+- This version only applies embeddings to the **positive prompt**.
+- For negative embeddings use this version: https://github.com/rar0n/sd-webui-negative-embeddings-queue-helper
