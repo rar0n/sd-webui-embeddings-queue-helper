@@ -1,7 +1,7 @@
 # sd-webui-embeddings-queue-helper
-Helpful to test different embeddings in one go (added to positive prompt only)
+Helpful to test different embeddings in one go (added to **positive prompt** only)
 
-This is another fork of Yinzo's Lora-queue-helper, but for embeddings instead of loras. https://github.com/Yinzo/sd-webui-Lora-queue-helper
+This is another fork of **Yinzo's Lora-queue-helper**, but for embeddings instead of loras. https://github.com/Yinzo/sd-webui-Lora-queue-helper
 
 As I already have one fork of Yinzo's Lora-queue-helper, I can't make another. Hence this new repository.
 
@@ -31,4 +31,4 @@ Then go to Extensions -> Installed tab, Press "Apply and restart UI".
 ## Tips
 
 - Place your Embeddings into **sub-folders** by category (like "tools", "characters", or some such).
-- This version only applies embeddings to the positive prompt. For negative, use the negative embeddings queue helper.
+- This version only applies embeddings to the **positive prompt**. For negative, use the negative embeddings queue helper version.
