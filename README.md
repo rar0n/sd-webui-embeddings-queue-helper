@@ -22,9 +22,10 @@ Then go to Extensions -> Installed tab, Press "Apply and restart UI".
    + I suggest to use **Use Custom Embeddings path** (Depending how many embeddings you have or your folder structure)
        + Paste in your folder path of the category of Embedding(s) you want to test / use.
 4. Find the **Embeddings** section below.
+   + At least one Embeddings folder has to be selected first for the Embeddings section to show up.
    + If you've got a lot of folders, you have to scroll down past the "Select Directory" section end to reach it.
 5. Select the **Embedding**(s) you want to use (or click "All").
-6. Generate!
+6. **Generate!**
 
 ## Tips
 
